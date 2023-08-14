@@ -11,8 +11,9 @@ public class Main {
         // asignar cuentas
         banco.agregarCuenta(cuenta1);
         banco.agregarCuenta(cuenta2);
+        // transferir cuenta
+        banco.transferencia(cuenta1);
 
-        banco.transferencia(cuenta1,cuenta2);
 
 
         banco.imprimir(cuenta1);
