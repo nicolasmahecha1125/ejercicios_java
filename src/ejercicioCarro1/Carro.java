@@ -1,6 +1,6 @@
 package ejercicioCarro1;
 
-public class Carro {
+public class Carro{
     private  Motor motor;
     private Llanta[] Llantas;
     private int contadorLlantas = 0;
