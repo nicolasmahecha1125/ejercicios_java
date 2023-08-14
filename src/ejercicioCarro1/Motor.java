@@ -1,6 +1,6 @@
 package ejercicioCarro1;
 
-public class Motor{
+public class Motor {
     private String marca;
     private String nombreValvula;
     public  Motor(String marca, String nombreValvula){
